@@ -1,5 +1,5 @@
 # Violence Detection Using 3D ConvNet
-Cancer presents humans with an ongoing challenge in medical diagnosis and treatment. Histopathological analysis, the examination of tissue samples under a microscope, is a critical tool in detecting and diagnosing cancers, including lung and colon cancer. This repository aims to leverage advanced deep learning techniques to improve the accuracy and efficiency of histopathological image analysis.
+Violence presents humans with an ongoing challenge in human society leading to clashes and deaths of individuals. The ongoing rise of 3D ConvNet architecture enables real-time and fast inference of violent scenarios which this model paves the path!
 
 # Project Overview
 - **Dataset**: Utilized Real Life Violence Situations Dataset consisting of 2000 Videos
